@@ -1,2 +1,2 @@
 # demo
-This is repo create while learning about git 
+This repo created while learning about git 
